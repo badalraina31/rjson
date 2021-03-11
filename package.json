@@ -1,0 +1,12 @@
+{
+  "name": "@rain/rjson",
+  "version": "1.0.0",
+  "description": "RJSON is an extension of JSON to support more types. It supports all JSON-safe\r types, as well as:",
+  "main": "rjson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
